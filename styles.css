@@ -1,7 +1,7 @@
 body {
     margin: 0;
     padding: 0;
-    background-color: #262626; /* Grey background */
+    background-color: #ffffff; /* Grey background */
     font-family: Arial, sans-serif;
 }
 
@@ -15,7 +15,7 @@ body {
 #big-number {
     font-size: 400px; /* 4 times bigger */
     font-weight: bold;
-    color: #ffffff; /* White color */
+    color: #34a0ff; /* White color */
     transition: opacity 0.5s ease; /* Adds a transition to the opacity property */
     opacity: 1; /* Default opacity */
 }
