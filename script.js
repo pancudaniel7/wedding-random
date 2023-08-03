@@ -1,4 +1,3 @@
-// ocument.getElementById('big-number').innerText = 456; // Example: changing the number
 
 function generateRandomNumber() {
     return Math.floor(Math.random() * 101) + 1; // Generates a random number between 1 and 101
