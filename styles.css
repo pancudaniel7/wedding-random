@@ -13,7 +13,7 @@ body {
 }
 
 #big-number {
-    font-size: 400px; /* 4 times bigger */
+    font-size: 800px; /* 4 times bigger */
     font-weight: bold;
     color: #34a0ff; /* White color */
     transition: opacity 0.5s ease; /* Adds a transition to the opacity property */
