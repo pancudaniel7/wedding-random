@@ -17,7 +17,7 @@ let interval;
 
 clearInterval(interval);
 
-interval = setInterval(updateNumber, 200);
+interval = setInterval(updateNumber, 400);
 setTimeout(() => {
     clearInterval(interval);
-}, 4000);
+}, 6000);
