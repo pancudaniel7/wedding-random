@@ -20,4 +20,4 @@ clearInterval(interval);
 interval = setInterval(updateNumber, 200);
 setTimeout(() => {
     clearInterval(interval);
-}, 3000);
+}, 4000);
